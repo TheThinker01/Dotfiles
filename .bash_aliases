@@ -1,0 +1,10 @@
+alias ta='tmux attach -t '
+alias tls='tmux ls'
+alias tn='tmux new'
+alias tnt='tmux new -t'
+alias kl='kubectl'
+alias exp='explorer.exe .'
+export dp=/mnt/c/Users/archi/Desktop
+export sem5='/mnt/d/KGP ACADEMIC MASTER/semester5'
+export sem6='/mnt/d/KGP ACADEMIC MASTER/semester6'
+export cp='/mnt/d/CompetitiveCodes/NewJourney'
